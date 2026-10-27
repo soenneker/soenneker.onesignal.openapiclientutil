@@ -47,7 +47,7 @@
 
     <ItemGroup>
         <PackageReference Include="Soenneker.Kiota.GenericAuthenticationProvider" Version="11.0.58" />
-        <PackageReference Include="Soenneker.OneSignal.HttpClients" Version="11.0.6" />
+        <PackageReference Include="Soenneker.OneSignal.HttpClients" Version="11.0.7" />
         <PackageReference Include="Soenneker.OneSignal.OpenApiClient" Version="11.0.5" />
         <PackageReference Include="Soenneker.Utils.AsyncSingleton" Version="11.0.886" />
     </ItemGroup>
